@@ -1,0 +1,1 @@
+https://theowoo.github.io/agbg/?shape=rectangle&width=434&height=1064&borderWidth=4&borderRadius=4&gradientType=twoTones&hue=300&hueOffset=120&brightness=75&duration=5&hideControl=true

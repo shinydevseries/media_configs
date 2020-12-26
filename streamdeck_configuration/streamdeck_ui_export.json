@@ -1,0 +1,187 @@
+{
+    "streamdeck_ui_version": 1,
+    "state": {
+        "AL14J2C06904": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "write": "",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Small/camera-retro.solid.png",
+                        "text": "Me & Guest",
+                        "keys": "ctrl+shift+f1",
+                        "command": "wmctrl -xa OBS",
+                        "switch_page": 0
+                    },
+                    "1": {
+                        "write": "",
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f2",
+                        "text": "Guest Full",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/robot.solid.png"
+                    },
+                    "2": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f3",
+                        "write": "",
+                        "text": "Guest screen",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/laptop-code.solid.png"
+                    },
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {
+                        "command": "",
+                        "keys": "",
+                        "write": "",
+                        "text": "",
+                        "switch_page": 2,
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/arrow-alt-circle-right.solid.png"
+                    }
+                },
+                "1": {
+                    "0": {
+                        "write": "",
+                        "switch_page": 0,
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f1",
+                        "text": "welcome",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/home.solid.png"
+                    },
+                    "1": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f2",
+                        "write": "",
+                        "text": "Me & Chat",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/comments.regular.png"
+                    },
+                    "2": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f3",
+                        "write": "",
+                        "text": "Source Only"
+                    },
+                    "3": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f4",
+                        "write": "",
+                        "text": "Source & Chat"
+                    },
+                    "4": {
+                        "command": "wmctrl -r code -e 0,0,20,1520,1080",
+                        "write": "",
+                        "text": "VSCode shift",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Small/code.solid.png"
+                    },
+                    "5": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f9",
+                        "write": "",
+                        "text": "VSCode",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/code.solid.png"
+                    },
+                    "6": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f10",
+                        "write": "",
+                        "text": "Destop",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/firefox.brands.png"
+                    },
+                    "7": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f11",
+                        "write": "",
+                        "text": "RStudio Server",
+                        "icon": "/home/eric/media_drive/stream_deck_images/misc/rstudio_icon.png"
+                    },
+                    "8": {
+                        "command": "",
+                        "keys": "",
+                        "write": "",
+                        "text": ""
+                    },
+                    "9": {
+                        "command": "wmctrl -r RStudio -e 0,1920,20,1520,1080",
+                        "write": "",
+                        "text": "RStudio Shift",
+                        "icon": "/home/eric/media_drive/stream_deck_images/misc/rstudio_icon.png",
+                        "keys": ""
+                    },
+                    "10": {
+                        "write": "",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/arrow-circle-left.solid.png",
+                        "switch_page": 1
+                    },
+                    "11": {
+                        "command": "wmctrl -r code -e 0,0,20,1920,1080",
+                        "keys": "",
+                        "write": "",
+                        "text": "VSCode Full",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/code.solid.png"
+                    },
+                    "12": {
+                        "command": "wmctrl -r RStudio -e 0,1920,20,1920,1080",
+                        "write": "",
+                        "text": "RStudio Full",
+                        "icon": "/home/eric/media_drive/stream_deck_images/misc/rstudio_icon.png",
+                        "keys": ""
+                    },
+                    "13": {
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+meta+f12",
+                        "write": "",
+                        "text": "Rainwave mute",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Small/volume-off.solid.png"
+                    },
+                    "14": {
+                        "write": "",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/arrow-alt-circle-right.solid.png",
+                        "switch_page": 3
+                    }
+                },
+                "2": {
+                    "0": {
+                        "write": "",
+                        "switch_page": 0,
+                        "command": "wmctrl -xa OBS",
+                        "keys": "ctrl+shift+f1",
+                        "text": "Only Me"
+                    },
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "write": "",
+                        "icon": "/home/eric/media_drive/stream_deck_images/72/Large/arrow-alt-circle-left.solid.png",
+                        "switch_page": 2,
+                        "command": "",
+                        "keys": "",
+                        "text": ""
+                    },
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {
+                        "write": "",
+                        "switch_page": 0
+                    }
+                }
+            },
+            "brightness": 99,
+            "page": 1
+        }
+    }
+}

@@ -1,0 +1,2 @@
+Current version of trailer media file can be found here: https://shinydevseries-assets.us-east-1.linodeobjects.com/trailer_final.webm
+Additional assests used to create the media files can be found in the same bucket.  Each file used in the backup of the OBS scenes for shiny dev series streaming (file is called `shinydevseries_screencast`) are included in this bucket.

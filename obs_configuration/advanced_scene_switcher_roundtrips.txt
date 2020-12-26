@@ -1,0 +1,74 @@
+{
+    "sceneRoundTrip": [
+        {
+            "delay": 5.5,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[*] Intro Scene",
+            "sceneRoundTripScene2": "[*] Starting Soon",
+            "transition": "Fade"
+        },
+        {
+            "delay": 300.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[*] Only Me Welcome",
+            "sceneRoundTripScene2": "[AUTO] Only Me Welcome Subscribe Alert",
+            "transition": "Fade"
+        },
+        {
+            "delay": 5.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[AUTO] Only Me Welcome Subscribe Alert",
+            "sceneRoundTripScene2": "[*] Only Me Welcome",
+            "transition": "Fade"
+        },
+        {
+            "delay": 5.0999999999999996,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[*] Closing Scene",
+            "sceneRoundTripScene2": "[*] Collage Closing",
+            "transition": "Fade"
+        },
+        {
+            "delay": 300.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[*] Source Demonstation with Chat",
+            "sceneRoundTripScene2": "[AUTO] Source Demonstration with Chat Subscribe Alert",
+            "transition": "Fade"
+        },
+        {
+            "delay": 5.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[AUTO] Source Demonstration with Chat Subscribe Alert",
+            "sceneRoundTripScene2": "[*] Source Demonstation with Chat",
+            "transition": "Fade"
+        },
+        {
+            "delay": 300.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[*] Source Demonstration",
+            "sceneRoundTripScene2": "[AUTO] Source Demonstration Subscribe Alert",
+            "transition": "Fade"
+        },
+        {
+            "delay": 5.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[AUTO] Source Demonstration Subscribe Alert",
+            "sceneRoundTripScene2": "[*] Source Demonstration",
+            "transition": "Fade"
+        },
+        {
+            "delay": 300.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[*] Only Me with Chat",
+            "sceneRoundTripScene2": "[AUTO] Only Me with Chat Subscribe Alert",
+            "transition": "Fade"
+        },
+        {
+            "delay": 5.0,
+            "delayMultiplier": 1,
+            "sceneRoundTripScene1": "[AUTO] Only Me with Chat Subscribe Alert",
+            "sceneRoundTripScene2": "[*] Only Me with Chat",
+            "transition": "Fade"
+        }
+    ]
+}
